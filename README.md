@@ -1,4 +1,16 @@
-# GS-IOT
+<h1 align="center">GS - IOT - Eco Power ☀️ </h1>
+
+<div align="center">
+
+
+| Integrantes      |            Responsabilidades          | Turma      |   RM     |
+| --------------   | ------------------------------------- | ---------- | -------- |
+| Cauã Couto       | Desenvolvimento do projeto em Java    |  2TDSS     |  97755   |
+| Eduardo Júnio    | Documentação do sistema               |  2TDSPV    |  552374  |
+| José dos Santos  | Documentação do sistema               |  2TDSS     |  552367  |
+| Kaique Agostinho | Mapeamento das tabelas e relações     |  2TDSS     |  550815  |
+| Thiago Gil       | Mapeamento das tabelas e relações     |  2TDSPV    |  551211  |
+</div>
 
 # Monitoramento de Energia Solar com ESP32
 
