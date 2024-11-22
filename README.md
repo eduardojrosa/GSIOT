@@ -28,6 +28,10 @@ O objetivo deste projeto é monitorar as seguintes variáveis:
 - **Valor do Potenciômetro**: Medição de um potenciômetro utilizado para ajustar a carga ou outros parâmetros.
 
 Esses dados serão enviados para o **ThingSpeak**, permitindo a visualização de gráficos e facilitando o monitoramento remoto do sistema de energia solar.
+
+
+![Monitoração thingspeak](https://github.com/eduardojrosa/GSIOT/raw/main/thingspeak.PNG)
+
  
 
 ## Tecnologias Utilizadas
