@@ -1,4 +1,4 @@
-# GSIOT
+# GS-IOT
 
 # Monitoramento de Energia Solar com ESP32
 
