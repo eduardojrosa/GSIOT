@@ -29,11 +29,7 @@ O objetivo deste projeto é monitorar as seguintes variáveis:
 
 Esses dados serão enviados para o **ThingSpeak**, permitindo a visualização de gráficos e facilitando o monitoramento remoto do sistema de energia solar.
 
-
-![Monitoração thingspeak](https://github.com/eduardojrosa/GSIOT/raw/main/thingspeak.PNG)
-
  
-
 ## Tecnologias Utilizadas
 
 - **ESP32**: Microcontrolador utilizado para a coleta de dados dos sensores e envio para a nuvem.
@@ -78,6 +74,8 @@ Esses dados serão enviados para o **ThingSpeak**, permitindo a visualização d
    - Carregue o código para o ESP32 com os sensores de tensão e potenciômetro conectados nas portas adequadas.
    - O ESP32 começará a enviar os dados para o ThingSpeak automaticamente.
 
+![Apresentação do ESP32 ](https://github.com/eduardojrosa/GSIOT/blob/main/ESP32.PNG)
+
 ### 4. **Visualização no ThingSpeak**
    - Acesse o canal criado no ThingSpeak para ver os dados sendo atualizados em tempo real.
    - Verifique os gráficos de **Tensão Solar**, **Tensão da Bateria** e **Potenciômetro**.
@@ -94,6 +92,9 @@ Esses dados serão enviados para o **ThingSpeak**, permitindo a visualização d
 - **Tensão Solar**: O gráfico de Tensão Solar deve mostrar a variação da tensão gerada pelos painéis solares, com valores que vão de acordo com a intensidade da luz solar.
 - **Tensão da Bateria**: O gráfico de Tensão da Bateria deve mostrar a variação da carga da bateria. Idealmente, ela deve permanecer entre 3.7V e 4.2V para baterias de lítio.
 - **Valor do Potenciômetro**: O gráfico do Potenciômetro mostrará as variações da tensão ajustada por ele, podendo ser utilizado para controlar outros parâmetros do sistema.
+
+
+![Monitoração thingspeak](https://github.com/eduardojrosa/GSIOT/raw/main/thingspeak.PNG)
 
 ## Melhorias Futuras
 
