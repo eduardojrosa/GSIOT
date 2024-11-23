@@ -76,6 +76,8 @@ Esses dados serão enviados para o **ThingSpeak**, permitindo a visualização d
 
 ![Apresentação do ESP32 ](https://github.com/eduardojrosa/GSIOT/blob/main/ESP32.PNG)
 
+![Apresentação do ESP32 ](https://github.com/eduardojrosa/GSIOT/blob/main/biblioteca.PNG)
+
 ### 4. **Visualização no ThingSpeak**
    - Acesse o canal criado no ThingSpeak para ver os dados sendo atualizados em tempo real.
    - Verifique os gráficos de **Tensão Solar**, **Tensão da Bateria** e **Potenciômetro**.
